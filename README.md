@@ -66,3 +66,12 @@ npm run (or yarn) serve
 ```bash
 npm run (or yarn) build
 ```
+
+## 升级计划
+
+1. 加入 Vue3.0 升级。
+2. 异步路由配置。
+
+## 参考
+
+[用微前端的方式搭建类单页应用](https://tech.meituan.com/fe_tiny_spa.html)
