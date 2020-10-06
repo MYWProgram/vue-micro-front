@@ -1,0 +1,17 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "bootstrap": "npm install && lerna bootstrap",
+    "serve": "lerna run serve --parallel",
+    "build-package": "lerna run build --parallel",
+    "build": "npm run build-package && npm run move",
+    "move": "node move.js",
+    "clean": "lerna clean && rm -rf node_modules"
+  },
+  "devDependencies": {
+    "fs-extra": "^8.1.0",
+    "lerna": "^3.19.0"
+  },
+  "license": "MIT"
+}

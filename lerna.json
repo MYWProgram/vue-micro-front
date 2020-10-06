@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "packages": [
+    "apps/*"
+  ],
+  "command": {
+    "bootstrap": {
+      "hoist": true,
+      "ignoreScripts": ["prepublish", "prepare"]
+    },
+    "clean": {
+      "yes": true
+    }
+  }
+}
