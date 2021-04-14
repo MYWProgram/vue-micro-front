@@ -1,6 +1,14 @@
 # Vue 微前端解决方案
 
+[![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)](https://github.com/MYWProgram/vue-micro-front)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-%23031d30?style=for-the-badge&logo=typescript)](https://github.com/MYWProgram/vue-micro-front)
+
 学习预加载路由项目有感尝试自己搭建前端已知路由配置情况下的 Vue 微前端解决方案。
+
+## SDK Version
+
+[![Vue](https://img.shields.io/badge/Vue-2.x-green)](https://github.com/MYWProgram/vue-micro-front)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3.x.x-brightgreen)](https://github.com/MYWProgram/vue-micro-front)
 
 ## 目标
 
